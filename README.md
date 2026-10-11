@@ -1,18 +1,18 @@
 # 🎥 LiveStream GZ911
 
-A real-time live streaming web application built with React, TypeScript, and Node.js.
+A real-time live streaming web application built with React, Laravel, and Node.js.
 
 ## 🚀 Features
 
 - 📹 **Live Video Player:** Optimized for low-latency live streaming.
 - 💬 **Real-Time Chat:** Instant messaging using WebSockets.
 - ⚡ **Responsive UI:** Fully mobile-friendly and optimized across major browsers.
-- 🛠️ **Type-Safe Architecture:** Built entirely in TypeScript for maintainability.
+- 🛠️ **Back-end Architecture:** Using Laravel for Back-end maintainability.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TypeScript, Tailwind CSS / CSS Modules
-- **Backend / Real-time:** Node.js, WebSockets / Socket.io
+- **Frontend:** React, CSS Modules
+- **Backend / Real-time:** Laravel, Node.js, WebSockets / Socket.io
 
 ## 💻 Getting Started
 
